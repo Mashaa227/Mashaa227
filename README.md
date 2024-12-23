@@ -31,42 +31,16 @@
 ### 2. [ZKTeco Biometric India Pvt Ltd](https://www.zkteco.in) *(2023 - 2024)*
 - Enhanced system security and optimized database interactions.
 
-### 3. [Botree Technologies](https://botree.in) *(2021 - 2023)*
-- Delivered high-quality backend solutions and implemented RESTful APIs.
 
 ---
 
-## Projects
-
-### 1. **Mediconnect: Empowering Healthcare Through Technology**
-A project that revolutionizes healthcare by optimizing data management and fostering collaboration among healthcare providers and patients.
-
-### 2. **ZKBiocvSecurity: Product Software**
-Involved in developing and customizing secure product software for enhanced user experience.
-
----
-
-## Education
-
-- **Bachelor of Engineering (BE)**
-  - **Institution:** Visvesvaraya Technological University (VTU)
-  - **Graduation Year:** 2021
-
----
 
 ## Connect With Me
 
 - **📍 Location:** Talikoti, Karnataka, India
 - **📧 Email:** [mashak8816@gmail.com](mailto:mashak8816@gmail.com)
-- **📞 Phone:** +91 9632303443
-- **🌐 GitHub:** [github.com/mashakbalaganoor](#)
+- **🌐 GitHub:** [github.com/mashaa227](#)
+- **🔗 LinkedIn:** [linkedin.com/in/mashaa8816](www.linkedin.com/in/mashaa8816)
 
 ---
 
-## Declaration
-
-I hereby declare that the above-mentioned details are true to the best of my knowledge.
-
----
-
-Feel free to explore my repositories and projects! Thank you for visiting!
