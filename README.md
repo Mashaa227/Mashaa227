@@ -24,25 +24,14 @@
 
 ---
 
-## Experience
-
-### 1. [Volkswagen Group Technology Solutions India](https://www.volkswagenag.com) *(2024 - Present)*
-- Customized and developed product software.
-- Implemented secure APIs and managed third-party integrations.
-
-### 2. [ZKTeco Biometric India Pvt Ltd](https://www.zkteco.in) *(2023 - 2024)*
-- Enhanced system security and optimized database interactions.
-
-
----
 
 
 ## Connect With Me
 
-- **📍 Location:** Talikoti, Karnataka, India
-- **📧 Email:** [mashak8816@gmail.com](mailto:mashak8816@gmail.com)
-- **🌐 GitHub:** [github.com/mashaa227](#)
-- **🔗 LinkedIn:** [linkedin.com/in/mashaa8816](https://www.linkedin.com/in/mashaa8816)
-
----
+<p align="center">
+  <a href="mailto:mashak8816@gmail.com"><img src="https://img.shields.io/badge/Email-mashak8816%40gmail.com-red" alt="Email"></a>
+  <a href="https://github.com/mashaa227"><img src="https://img.shields.io/badge/GitHub-mashaa227-lightgrey" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/mashaa8816"><img src="https://img.shields.io/badge/LinkedIn-mashaa8816-blue" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Location-Talikoti%2C%20Karnataka-brightgreen" alt="Location">
+</p>
 
