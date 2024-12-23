@@ -9,7 +9,6 @@
 
 <p align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mashaa227&show_icons=true&locale=en&theme=radical" alt="mashaa227" style="flex: 1;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashaa227&theme=radical" alt="mashaa227" style="flex: 1;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashaa227&show_icons=true&locale=en&layout=compact&theme=radical" alt="mashaa227" style="flex: 1;"/>
   </div>
