@@ -11,9 +11,12 @@
 
 - 📫 How to reach me **mashaa8816@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mashaa227&show_icons=true&locale=en&theme=radical" alt="mashaa227" style="flex: 1;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashaa227&theme=radical" alt="mashaa227" style="flex: 1;"/>
+  </div>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -26,10 +29,5 @@
 
 
 
-<p align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mashaa227&show_icons=true&locale=en&theme=radical" alt="mashaa227" style="flex: 1;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashaa227&theme=radical" alt="mashaa227" style="flex: 1;"/>
-  </div>
-</p>
+
 
