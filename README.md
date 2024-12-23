@@ -5,7 +5,7 @@
 👋 Hi, I’m Mashak Balaganoor  
 👀 I’m interested in developing secure and scalable backend solutions  
 🌱 I’m currently learning advanced Spring Boot features and microservices architecture  
-📫 How to reach me: [mashak8816@gmail.com](mailto:mashak8816@gmail.com)  
+📫 How to reach me: [mashaa8816@gmail.com](mailto:mashaa8816@gmail.com)  
 
 ---
 
