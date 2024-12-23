@@ -40,7 +40,7 @@
 - **📍 Location:** Talikoti, Karnataka, India
 - **📧 Email:** [mashak8816@gmail.com](mailto:mashak8816@gmail.com)
 - **🌐 GitHub:** [github.com/mashaa227](#)
-- **🔗 LinkedIn:** [linkedin.com/in/mashaa8816](www.linkedin.com/in/mashaa8816)
+- **🔗 LinkedIn:** [linkedin.com/in/mashaa8816](https://www.linkedin.com/in/mashaa8816)
 
 ---
 
